@@ -1,0 +1,519 @@
+{
+  "allBooks": [
+    {
+      "id": 1,
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "time": "20",
+      "category": "Entrepreneurship",
+      "image": "https://images.blinkist.com/images/books/608a9c296cee070007228a21/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 2,
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "time": "20",
+      "category": "Entrepreneurship",
+      "image": "https://images.blinkist.com/images/books/60701b716cee070008b8b7a1/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 3,
+      "title": "The Bully Pulpit",
+      "author": "Goodwin",
+      "time": "19",
+      "category": "Politics",
+      "image": "https://images.blinkist.com/images/books/608aa9b16cee070007228a70/1_1/250.jpg",
+      "status": "false"
+    },
+    {
+      "id": 4,
+      "title": "Genesis",
+      "author": "Guido Tonelli",
+      "time": "12",
+      "category": "Science",
+      "image": "https://images.blinkist.com/images/books/608bcaf36cee07000722912e/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 5,
+      "title": "Exercised",
+      "author": "Daniel E. Lieberman",
+      "time": "13",
+      "category": "Science",
+      "image": "https://images.blinkist.com/images/books/60507e296cee070007c4dc7e/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 6,
+      "title": "Forest Bathing",
+      "author": "Qing Li",
+      "time": "12",
+      "category": "Health",
+      "image": "https://images.blinkist.com/images/books/60950a3c6cee070007151f86/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 7,
+      "title": "The Pegan Diet",
+      "author": "Dr. Mark Hyman",
+      "time": "15",
+      "category": "Health",
+      "image": "https://images.blinkist.com/images/books/607d9d2c6cee070007991263/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 8,
+      "title": "Hyper-Learning",
+      "author": "Edward D.Hess",
+      "time": "13",
+      "category": "Education",
+      "image": "https://images.blinkist.com/images/books/609155fc6cee070007ccb3ad/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 9,
+      "title": "Knowledge",
+      "author": "Jennifer Nagel",
+      "time": "15",
+      "category": "Education",
+      "image": "https://images.blinkist.com/images/books/5fdc62ce6cee070007f858bd/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 10,
+      "title": "Grasp",
+      "author": "Sanjay Sarma",
+      "time": "12",
+      "category": "Education",
+      "image": "https://images.blinkist.com/images/books/5fb78f9d6cee070006e48e60/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 11,
+      "title": "Get Better",
+      "author": "Todd Davis",
+      "time": "18",
+      "category": "Communcation skills",
+      "image": "https://images.blinkist.com/images/books/608a764b6cee070007228924/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 12,
+      "title": "Let's Talk",
+      "author": "Therese Huston",
+      "time": "13",
+      "category": "Communcation skills",
+      "image": "https://images.blinkist.com/images/books/60547aca6cee0700076902e8/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 13,
+      "title": "The Motivation Myth",
+      "author": "Jeff Haden",
+      "time": "13",
+      "category": "Motivation",
+      "image": "https://images.blinkist.com/images/books/6082d1516cee0700072c7da1/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 14,
+      "title": "That Sounds Fun",
+      "author": "Annie F. Downs",
+      "time": "10",
+      "category": "Motivation",
+      "image": "https://images.blinkist.com/images/books/60701c7f6cee070007aad5a9/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "title": "Fear",
+      "author": "Bob Woodward",
+      "category": "Politics",
+      "time": "15",
+      "image": "https://images.blinkist.com/images/books/609901436cee0700077e6675/1_1/470.jpg",
+      "status": "true",
+      "id": 15
+    },
+    {
+      "title": "Flash Crash",
+      "author": "Liam Vaughan",
+      "category": "Economics",
+      "time": "12",
+      "image": "https://images.blinkist.com/images/books/600187c36cee0700069e4cef/1_1/470.jpg",
+      "status": "true",
+      "id": 16
+    },
+    {
+      "title": "Post Corona",
+      "author": "Scoot Galloway",
+      "category": "Economics",
+      "time": "12",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "status": "true",
+      "id": 17
+    },
+    {
+      "title": "Fault Lines",
+      "author": "Karl Pillemer",
+      "category": "Relationships",
+      "image": "https://images.blinkist.com/images/books/60645e806cee070007b3bc0a/1_1/470.jpg",
+      "time": "15",
+      "status": "true",
+      "id": 18
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 19
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 20
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 21
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 22
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 23
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 24
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 25
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 26
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 27
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 28
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 29
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 30
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 31
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 32
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 33
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 34
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 35
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 36
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 37
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 38
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 39
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 40
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 41
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 42
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 43
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 44
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 45
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 46
+    },
+    {
+      "title": "",
+      "author": "",
+      "category": "",
+      "image": "image.png",
+      "time": "",
+      "status": "true",
+      "id": 47
+    }
+  ],
+  "blogs": [
+    {
+      "id": 2,
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "time": "20",
+      "category": "Entrepreneurship",
+      "image": "https://images.blinkist.com/images/books/60701b716cee070008b8b7a1/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 1,
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "time": "20",
+      "category": "Entrepreneurship",
+      "image": "https://images.blinkist.com/images/books/608a9c296cee070007228a21/1_1/470.jpg",
+      "status": "true"
+    },
+    {
+      "id": 3,
+      "title": "The Bully Pulpit",
+      "author": "Goodwin",
+      "time": "19",
+      "category": "Politics",
+      "image": "https://images.blinkist.com/images/books/608aa9b16cee070007228a70/1_1/250.jpg",
+      "status": "false"
+    },
+    {
+      "title": "Fear",
+      "author": "Bob Woodward",
+      "category": "Politics",
+      "time": "15",
+      "image": "https://images.blinkist.com/images/books/609901436cee0700077e6675/1_1/470.jpg",
+      "status": "true",
+      "id": 15
+    },
+    {
+      "id": 8,
+      "title": "Hyper-Learning",
+      "author": "Edward D.Hess",
+      "time": "13",
+      "category": "Education",
+      "image": "https://images.blinkist.com/images/books/609155fc6cee070007ccb3ad/1_1/470.jpg",
+      "status": "false"
+    },
+    {
+      "id": 9,
+      "title": "Knowledge",
+      "author": "Jennifer Nagel",
+      "time": "15",
+      "category": "Education",
+      "image": "https://images.blinkist.com/images/books/5fdc62ce6cee070007f858bd/1_1/470.jpg",
+      "status": "false"
+    },
+    {
+      "title": "Post Corona",
+      "author": "Scoot Galloway",
+      "category": "Economics",
+      "time": "12",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "status": "true",
+      "id": 17
+    },
+    {
+      "title": "Flash Crash",
+      "author": "Liam Vaughan",
+      "category": "Economics",
+      "time": "12",
+      "image": "https://images.blinkist.com/images/books/600187c36cee0700069e4cef/1_1/470.jpg",
+      "status": "false",
+      "id": 16
+    },
+    {
+      "id": 6,
+      "title": "Forest Bathing",
+      "author": "Qing Li",
+      "time": "12",
+      "category": "Health",
+      "image": "https://images.blinkist.com/images/books/60950a3c6cee070007151f86/1_1/470.jpg",
+      "status": "false"
+    },
+    {
+      "id": 7,
+      "title": "The Pegan Diet",
+      "author": "Dr. Mark Hyman",
+      "time": "15",
+      "category": "Health",
+      "image": "https://images.blinkist.com/images/books/607d9d2c6cee070007991263/1_1/470.jpg",
+      "status": "true"
+    }
+  ]
+}
