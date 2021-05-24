@@ -29,6 +29,11 @@ describe('MenuBar', () => {
     
     expect(screen.getByText('Add Book')).toBeInTheDocument();
     expect(screen.getByText('Explore')).toBeInTheDocument();
+    fireEvent.click(screen.getByRole('icon'));
+   
+        fireEvent.change(screen.getByPlaceholderText('Search for books,authors'), {target: {value: 'value'}});
+        fireEvent.click(screen.getByRole('icon'));
+
     
   });
 
