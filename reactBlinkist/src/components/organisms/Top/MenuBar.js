@@ -46,20 +46,6 @@ export default function ButtonAppBar() {
   const callBackFunction = () => {
       setValue(0);
   };
-  const handleClose = (event) => {
-    if (anchorRef.current && anchorRef.current.contains(event.target)) {
-      return;
-    }
-
-    setOpen(false);
-  };
-
-  function handleListKeyDown(event) {
-    if (event.key === 'Tab') {
-      event.preventDefault();
-      setOpen(false);
-    }
-  }
   
   const changeState1 = (val) =>{
     setValue(val);
