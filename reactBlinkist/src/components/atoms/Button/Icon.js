@@ -4,7 +4,7 @@ import IconButton from '@material-ui/core/IconButton';
 const TextButtons = ({onClick,endIcon}) => {
 
   return (
-      <IconButton onClick={onClick}  >
+      <IconButton role='icon' onClick={onClick}  >
           {endIcon}
       </IconButton>
   );
